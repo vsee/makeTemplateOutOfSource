@@ -12,4 +12,5 @@ This c++ project template supports:
 * Works on Unix and DOS systems
 * Written for GNU Make
 
-99% of the credit goes to [TimF](http://stackoverflow.com/users/6413048/timf)
+All the credit goes to [TimF](http://stackoverflow.com/users/6413048/timf). See detailed explanation
+in [this post](http://stackoverflow.com/a/39033569).
